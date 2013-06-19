@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="planets_array">
+            <item>Afghanistan Afghani (AFN)y</item>
+            <item>Euro (EUR)</item>
+            <item>Indian Rupee (INR)</item>
+            <item>United Kinddom (GBP)</item>
+            <item>Unites States of America (USD)</item>
+    </string-array>
+
+</resources>
